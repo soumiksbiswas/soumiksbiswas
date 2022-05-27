@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Soumik Subhra Biswas
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Machine Learning
 - 📫 Reach me at soumiksbiswas@gmail.com
 
 <!---
