@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumik Subhra Biswas
-- 👀 I’m interested in Competitive Programming
+- 👀 I’m interested in Front and Back End Development
 - 📫 Reach me at soumiksbiswas@gmail.com
 
 <!---
