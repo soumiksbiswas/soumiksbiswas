@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumik Subhra Biswas
-- 👀 I’m interested in Front and Back End Development
+- 👀 I’m currently into MERN stack development
 - 📫 Reach me at soumiksbiswas@gmail.com
 
 <!---
