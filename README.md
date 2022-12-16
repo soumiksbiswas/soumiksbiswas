@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumik Subhra Biswas
 - 👀 I’m currently into MERN stack development
-- 📫 Reach me at soumiksbiswas@gmail.com
+- 📫 Reach out to me at soumiksbiswas@gmail.com
 
 <!---
 soumiksbiswas/soumiksbiswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
