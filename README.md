@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumik Subhra Biswas</h1>
 <h3 align="center">A Machine Learning enthusiast complemented by a background in Full Stack Development</h3>
 
-- 🔭 I’m currently working on **Fault Detection in Rotating Machinery**
+- 🔭 I’m currently working on **Application of ML in Fault Detection and Diagnosis in Rotating Machinery**
 
-- 🌱 I’m currently delving into the depths of **Machine Learning and Computer Vision**
+- 🌱 Currently, I am delving into the depths of **Machine Learning and Computer Vision**
 
 - 📫 How to reach me **soumiksbiswas@gmail.com**
 
