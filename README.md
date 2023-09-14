@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **soumiksbiswas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zgff1Y7_TKBj1iUIObj9KFTP3R5uv6Gm/view?usp=sharing](https://drive.google.com/file/d/1zgff1Y7_TKBj1iUIObj9KFTP3R5uv6Gm/view?usp=sharing)
+- 📄 Know about my experiences.. [Find my CV here](https://drive.google.com/file/d/1zgff1Y7_TKBj1iUIObj9KFTP3R5uv6Gm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
